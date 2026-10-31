@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+model.joblib
+.pytest_cache/
+.env
